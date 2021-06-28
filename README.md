@@ -9,6 +9,11 @@
 
 ##
 ##
+### Web development and Designing Intern - The Sparks Foundation (Jan - Feb 2021)
+![intern certificate](https://user-images.githubusercontent.com/58353352/123684834-96eac280-d86b-11eb-9ed5-c0ea32667036.jpg)
+
+##
+##
 ### Coursera
 ##### HTML, CSS and Javascript for Web developers
 ![HTML CSS and JS  for web developers Coursera UH9Y62BXG4SV-1](https://user-images.githubusercontent.com/58353352/123683774-41fa7c80-d86a-11eb-96b5-90926b1f910f.png)
@@ -21,8 +26,3 @@
 
 ##### Introduction to Structured Query Language(SQL)  
 ![Intro to SQL Coursera JB3LNSH6YGM5-1](https://user-images.githubusercontent.com/58353352/123683893-648c9580-d86a-11eb-8e9c-947585381124.png)
-
-
-
-
-
